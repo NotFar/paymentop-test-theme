@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: paymentop-test-theme\n"
+"POT-Creation-Date: 2023-10-08 20:06+0300\n"
+"PO-Revision-Date: 2023-10-08 20:08+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+
+#: functions.php:71
+msgid "FAQs"
+msgstr "FAQs"
+
+#: functions.php:72
+msgid "FAQ"
+msgstr "FAQ"
+
+#: functions.php:73
+msgid "Add FAQ"
+msgstr "Add FAQ"
+
+#: functions.php:74
+msgid "Addition FAQ"
+msgstr "Addition FAQ"
+
+#: functions.php:75
+msgid "Editing FAQ"
+msgstr "Editing FAQ"
+
+#: functions.php:76
+msgid "New FAQ"
+msgstr "New FAQ"
+
+#: functions.php:77
+msgid "View FAQ"
+msgstr "View FAQ"
+
+#: functions.php:78
+msgid "Searching FAQ"
+msgstr "Searching FAQ"
+
+#: functions.php:79 functions.php:115
+msgid "Not found"
+msgstr "Not found"
+
+#: functions.php:80 functions.php:116
+msgid "Not found in the cart"
+msgstr "Not found in the cart"
+
+#: functions.php:82
+msgid "Theme FAQs"
+msgstr "Theme FAQs"
+
+#: functions.php:107
+msgid "Forms"
+msgstr "Forms"
+
+#: functions.php:108
+msgid "Form"
+msgstr "Form"
+
+#: functions.php:109
+msgid "Add Form"
+msgstr "Add Form"
+
+#: functions.php:110
+msgid "Addition Form"
+msgstr "Addition Form"
+
+#: functions.php:111
+msgid "Editing Form"
+msgstr "Editing Form"
+
+#: functions.php:112
+msgid "New Form"
+msgstr "New Form"
+
+#: functions.php:113
+msgid "View Form"
+msgstr "View Form"
+
+#: functions.php:114
+msgid "Searching Form"
+msgstr "Searching Form"
+
+#: functions.php:118
+msgid "Theme Forms"
+msgstr "Theme Forms"
+
+#: functions.php:153 functions.php:156
+msgid "FAQ updated."
+msgstr "FAQ updated."
+
+#: functions.php:154 functions.php:181
+msgid "Field modified."
+msgstr "Field modified."
+
+#: functions.php:155 functions.php:182
+msgid "Field deleted."
+msgstr "Field deleted."
+
+#: functions.php:158
+msgid "FAQ added."
+msgstr "FAQ added."
+
+#: functions.php:159
+msgid "FAQ saved."
+msgstr "FAQ saved."
+
+#: functions.php:160
+msgid "FAQ sent for verification"
+msgstr "FAQ sent for verification"
+
+#: functions.php:161 functions.php:188
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: functions.php:162
+msgid "The draft FAQ has been saved"
+msgstr "The draft FAQ has been saved"
+
+#: functions.php:180 functions.php:183
+msgid "Form updated."
+msgstr "Form updated."
+
+#: functions.php:185
+msgid "Form added."
+msgstr "Form added."
+
+#: functions.php:186
+msgid "Form saved."
+msgstr "Form saved."
+
+#: functions.php:187
+msgid "Form sent for verification"
+msgstr "Form sent for verification"
+
+#: functions.php:189
+msgid "The draft Form has been saved"
+msgstr "The draft Form has been saved"
+
+#: functions.php:203 functions.php:272
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: functions.php:235 functions.php:304
+msgid "Author"
+msgstr "Author"
+
+#: functions.php:428
+msgid "Send"
+msgstr "Send"
+
+#: functions.php:505
+msgid "The email has been sent!"
+msgstr "The email has been sent!"
+
+#: functions.php:507
+msgid "Something went wrong!"
+msgstr "Something went wrong!"
+
+#: inc/FaqClass.php:21
+msgid "FAQ Block"
+msgstr "FAQ Block"
+
+#: inc/FaqClass.php:38 inc/FaqClass.php:55 inc/FaqClass.php:71
+msgid "Question"
+msgstr "Question"
+
+#: inc/FaqClass.php:42 inc/FaqClass.php:59 inc/FaqClass.php:75
+msgid "Answer"
+msgstr "Answer"
+
+#: inc/FaqClass.php:46 inc/FaqClass.php:63 inc/FaqClass.php:79
+#: inc/FormClass.php:72 inc/FormClass.php:105 inc/FormClass.php:137
+msgid "Remove"
+msgstr "Remove"
+
+#: inc/FaqClass.php:84
+msgid "Add another"
+msgstr "Add another"
+
+#: inc/FormClass.php:23
+msgid "Theme form editor"
+msgstr "Theme form editor"
+
+#: inc/FormClass.php:48 inc/FormClass.php:81 inc/FormClass.php:113
+msgid "Field type"
+msgstr "Field type"
+
+#: inc/FormClass.php:59 inc/FormClass.php:92 inc/FormClass.php:124
+msgid "Field name"
+msgstr "Field name"
+
+#: inc/FormClass.php:63 inc/FormClass.php:96 inc/FormClass.php:128
+msgid "Field required?"
+msgstr "Field required?"
+
+#: inc/FormClass.php:68 inc/FormClass.php:101 inc/FormClass.php:133
+msgid "Field sort(1,2,3 ....)"
+msgstr "Field sort(1,2,3 ....)"
+
+#: inc/FormClass.php:142
+msgid "Add field"
+msgstr "Add field"

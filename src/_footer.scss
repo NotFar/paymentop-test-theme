@@ -1,0 +1,16 @@
+footer {
+  background: $dark;
+  width: 100%;
+  height: auto;
+  padding: 30px 0px;
+  .flx {
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
