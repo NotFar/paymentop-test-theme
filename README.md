@@ -1,29 +1,32 @@
 Developing a custom WordPress theme
 =============
 
-	Theme development:
+Theme development:
+
 ● Create a new WordPress theme from scratch.
 ● Implement the necessary theme files such as header.php, footer.php, index.php, and style.css.
 ● Connect the necessary styles and scripts to the theme.
 
-	Form fields:
+Form fields:
+
 ● Include a section with customizable form fields (e.g., contact form).
 ● Make sure that the form fields are customizable and that the submitted data is saved or sent to the administrative email address.
 
-	SCSS (Sass) and JS Builder:
+SCSS (Sass) and JS Builder:
+
 ● Add development tools such as SCSS (Sass) and JavaScript to the theme.
 
 ----
 
 **To customize the theme(styles and scripts) you need to install node modules in the root folder of the theme**
 **Use the command:**
-`$ npm install`
+	`$ npm install`
 
 In development mode, use the commands
-`$ npm run watch`
+	`$ npm run watch`
 
 To minify styles and scripts, use the command
-`$ npm run prod`
+	`$ npm run prod`
 
 ----
 
